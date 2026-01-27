@@ -1,4 +1,4 @@
-package SESSION08.Student;
+package SESSION09.Student;
 
 public class Student {
     private int id;

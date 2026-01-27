@@ -1,4 +1,4 @@
-package SESSION08.Retangle;
+package SESSION09.Retangle;
 
 public class Retangle {
     private double width;
